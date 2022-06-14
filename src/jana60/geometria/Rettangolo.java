@@ -20,6 +20,6 @@ public class Rettangolo {
 	
 	String risulato() {
 		
-		return "l'area del rettangolo è: " + area() + " il perimetro del rettangolo è:" + perimetro();
+		return "l'area del rettangolo è: " + area() + " e il perimetro del rettangolo è:" + perimetro();
 	}
 }
